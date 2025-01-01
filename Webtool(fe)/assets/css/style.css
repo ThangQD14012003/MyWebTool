@@ -1,0 +1,15 @@
+li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body, html, #__nuxt, #__layout{
+    height: 100%;
+}
+.my-body{
+    height: 100%;
+}
+.title-web {
+    color: rgb(64, 153, 255);
+}

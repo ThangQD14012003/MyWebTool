@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\services\\qrcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:services\\qrcodeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\services\\excelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:services\\excelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\progresshub\\hubsignalr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:progresshub\\hubsignalr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\webtool.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:webtool.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\model\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:model\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\model\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:model\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\model\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:model\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\model\\importmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:model\\importmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\model\\columninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:model\\columninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\mywebtool\\webtool(be)\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14AA53B-598A-4546-8500-A38B024AE58E}|WebTool.csproj|solutionrelative:controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebTool.http",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\WebTool.http",
+              "RelativeDocumentMoniker": "WebTool.http",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\WebTool.http",
+              "RelativeToolTip": "WebTool.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-28T15:19:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:19:34.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T15:19:33.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Services\\TokenServices.cs",
+              "RelativeToolTip": "Services\\TokenServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:49.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HubSignalR.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\ProgressHub\\HubSignalR.cs",
+              "RelativeDocumentMoniker": "ProgressHub\\HubSignalR.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\ProgressHub\\HubSignalR.cs",
+              "RelativeToolTip": "ProgressHub\\HubSignalR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:25.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\TokenModel.cs",
+              "RelativeDocumentMoniker": "Model\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\TokenModel.cs",
+              "RelativeToolTip": "Model\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:23.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QrcodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\QrcodeDto.cs",
+              "RelativeDocumentMoniker": "Model\\QrcodeDto.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\QrcodeDto.cs",
+              "RelativeToolTip": "Model\\QrcodeDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAxwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:15:21.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportResult.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\ImportResult.cs",
+              "RelativeDocumentMoniker": "Model\\ImportResult.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\ImportResult.cs",
+              "RelativeToolTip": "Model\\ImportResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:20.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\ImportModel.cs",
+              "RelativeDocumentMoniker": "Model\\ImportModel.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\ImportModel.cs",
+              "RelativeToolTip": "Model\\ImportModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:18.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ColumnInfo.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\ColumnInfo.cs",
+              "RelativeDocumentMoniker": "Model\\ColumnInfo.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Model\\ColumnInfo.cs",
+              "RelativeToolTip": "Model\\ColumnInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:15.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcelController.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Controllers\\ExcelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExcelController.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Controllers\\ExcelController.cs",
+              "RelativeToolTip": "Controllers\\ExcelController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:16:58.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QrCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Controllers\\QrCodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QrCodeController.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Controllers\\QrCodeController.cs",
+              "RelativeToolTip": "Controllers\\QrCodeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:16:53.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:16:24.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelServices.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Services\\ExcelServices.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelServices.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Services\\ExcelServices.cs",
+              "RelativeToolTip": "Services\\ExcelServices.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:16:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QrCodeServices.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Services\\QrCodeServices.cs",
+              "RelativeDocumentMoniker": "Services\\QrCodeServices.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\MyWebTool\\Webtool(be)\\Services\\QrCodeServices.cs",
+              "RelativeToolTip": "Services\\QrCodeServices.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAwCEBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:12:52.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
